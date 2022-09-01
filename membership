@@ -6,6 +6,11 @@ namespace Assessment
     {
         static void Main(string[] args)
         {
+            string[] names = new string[6]; //storing names in string
+            int[] month = new int[6]; //storing month in number
+            char[] offer = new char[6]; // storing offer if y/n
+            double[] fee = new double[6]; // storing fee value in decimal
+            int i = 0; //count 
 
         }
     }
