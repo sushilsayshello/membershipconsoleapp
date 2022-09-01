@@ -11,6 +11,15 @@ namespace Assessment
             char[] offer = new char[6]; // storing offer if y/n
             double[] fee = new double[6]; // storing fee value in decimal
             int i = 0; //count 
+            
+            //Displaying Message with user: your name
+
+            Console.WriteLine("Welcome to the Membership Management Platform");
+            Console.WriteLine("User: Sushil Shakya \n");
+
+
+            //Using while loop as true if they choose option1,2,0 to initialise loops inside it
+            //Or else system won't run and crash
 
         }
     }
