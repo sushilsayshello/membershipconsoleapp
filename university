@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace SessionOneReview
+{
+    public class University
+    {
+        //string[] name = new string[3];
+        //int[] age = new int[3];
+
+        string apple;
+        int ball;
+
+        List<Student> listOfStudents = new List<Student>();
+
+        public void WelcomeMessage()
+        {
+            Console.WriteLine("*****Victoria University******");
+        }
+
+        
+        }
+    }
+}
